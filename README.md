@@ -1,2 +1,12 @@
 # CS-300-SNHU
 Data Structures and Algorithms 
+
+  This class highlights different data model and structures used to sort, append, delete, and print a list of data within the required specifications. Algorithms are used to execute the results, such as loops, nested loops, calling a function, and file-reading. Examples of different data models used in this course are linked lists, vectors, hash tables, and binary search trees. These tools and techniques were utilized to display a menu for user input and organzie the available data according to the users request.
+
+  Data structures are an important concept to under because many industries and tech depend on collecting data to improve their product and business model. After the data is collected, we must now organize and anaylize this data to create new products and improve future business decisions. I approached this problem by trying to understand which data structure is best used for the proper situation. Technique and runtime are a big influence to pick the right strcuture for the right scenario. 
+
+  Picking the right data strucutre for the right job was the initial hurdle for me. I examined the Big-O Notation for each structure and used the results to pick the proper strcuture for the right job. Big-0 Notation describes the performance and complexitity of a programs worst-case scenario runtime. Big-O Notation describes whether code will have a "constant" complexity, "linear" complexity, or "quadratic" complexity. For our program, we want the most simple complexity for a shorter run-time and least amount of memory being used. I researched these concepts and how it affected my data strcuture in order to pick the right one.
+
+  The work in this course helped me understand the concept of run-time and how the code I choose to use in my program effects the memory usage and complexity. Previously, I took this concept for granted thinking as long as the program runs, it should be fine. However, underneath the surface, it is important to consider runtime so the program I write is simple, fast, and user-friendly. This course also helped me expand my knowledge developing data structures. I learned different data models and how they can be used to sort and print information.
+
+  This course provided me the opportunity to expand my knowledge of algorithms and proper techniques to acheive the desired results. The coruse also helped me simplify my code maintaining readability and execution. I will continue to utilize Big-O Notation in future projects so my code is a simple as possible.
